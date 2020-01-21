@@ -1,3 +1,3 @@
-# epc
+# EPC
 
-alterando o leiame
+Prototipo de projeto de um e-commerce no Wordpress
